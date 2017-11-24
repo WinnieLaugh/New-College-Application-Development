@@ -11,7 +11,7 @@ Since  primary development is mostly based on React Native you'll need a compute
 
 * [React Native](https://facebook.github.io/react-native/) - Framework used to build mobile apps with React
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [SKetch](https://www.sketchapp.com/) - Used to generate wireframes and Splash Screen designs
+* [Sketch](https://www.sketchapp.com/) - Used to generate wireframes and Splash Screen designs
 
 ## Authors
 
